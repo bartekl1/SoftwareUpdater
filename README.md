@@ -15,3 +15,12 @@ The program is available in English and Polish.
 ## Polish version of README file
 Polish version of README file is available [here](README_PL.md).
 
+---
+
+## Available functions
+- Update WinGet packages (almost every program available on Windows)
+
+## Planned functions
+- Update Windows
+- Update PIP (Python) packages 
+- Update NPM (Node.js) packages

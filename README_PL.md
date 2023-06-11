@@ -10,3 +10,12 @@ Program do aktualizacji oprogramowania. \
 Program działa tylko na systemie Windows. \
 Program jest dostępny po polsku i po angielsku.
 
+---
+
+## Dostępne funkcje
+- Aktualizowanie pakietów WinGet (prawie każdy program dostępny na Windows)
+
+## Planned functions
+- Aktualizowanie Windows
+- Aktualizowanie pakietów PIP (Python)
+- Aktualizowanie pakietów NPM (Node.js)
