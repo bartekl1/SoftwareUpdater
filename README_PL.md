@@ -6,12 +6,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/slonindyjski/SoftwareUpdater?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/slonindyjski/SoftwareUpdater?style=flat-square)
 
-Program for updating software. \
-This programs works only on Windows. \
-The program is available in English and Polish.
-
----
-
-## Polish version of README file
-Polish version of README file is available [here](README_PL.md).
+Program do aktualizacji oprogramowania. \
+Program działa tylko na systemie Windows. \
+Program jest dostępny po polsku i po angielsku.
 
