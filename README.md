@@ -28,4 +28,4 @@ Polish version of README file is available [here](README_PL.md).
 ---
 
 ## Documentation
-Documentation is available [here](https://github.com/slonindyjski/SoftwareUpdater/wiki)
+Documentation is available [here](https://github.com/slonindyjski/SoftwareUpdater/wiki).

@@ -23,4 +23,4 @@ Program jest dostępny po polsku i po angielsku.
 ---
 
 ## Dokumentacja
-Dokumentacja jest dostępna [tutaj](https://github.com/slonindyjski/SoftwareUpdater/wiki)
+Dokumentacja jest dostępna [tutaj](https://github.com/slonindyjski/SoftwareUpdater/wiki).
