@@ -24,3 +24,8 @@ Polish version of README file is available [here](README_PL.md).
 - Update Windows
 - Update PIP (Python) packages 
 - Update NPM (Node.js) packages
+
+---
+
+## Documentation
+Documentation is available [here](https://github.com/slonindyjski/SoftwareUpdater/wiki)

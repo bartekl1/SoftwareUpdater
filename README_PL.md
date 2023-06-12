@@ -19,3 +19,8 @@ Program jest dostępny po polsku i po angielsku.
 - Aktualizowanie Windows
 - Aktualizowanie pakietów PIP (Python)
 - Aktualizowanie pakietów NPM (Node.js)
+
+---
+
+## Dokumentacja
+Dokumentacja jest dostępna [tutaj](https://github.com/slonindyjski/SoftwareUpdater/wiki)
