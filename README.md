@@ -1,10 +1,10 @@
 # Software Updater
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/slonindyjski/SoftwareUpdater?style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/slonindyjski/SoftwareUpdater/total?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/slonindyjski/SoftwareUpdater?style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/slonindyjski/SoftwareUpdater?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/slonindyjski/SoftwareUpdater?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/barteklorenc/SoftwareUpdater?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/barteklorenc/SoftwareUpdater/total?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/barteklorenc/SoftwareUpdater?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/barteklorenc/SoftwareUpdater?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/barteklorenc/SoftwareUpdater?style=flat-square)
 
 Program for updating software. \
 This programs works only on Windows. \
@@ -28,4 +28,4 @@ Polish version of README file is available [here](README_PL.md).
 ---
 
 ## Documentation
-Documentation is available [here](https://github.com/slonindyjski/SoftwareUpdater/wiki).
+Documentation is available [here](https://github.com/barteklorenc/SoftwareUpdater/wiki).
