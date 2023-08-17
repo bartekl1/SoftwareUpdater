@@ -10,9 +10,9 @@ import subprocess
 import webbrowser
 import threading
 
-VERSION = '1.0'
+VERSION = '1.1'
 
-CHECK_NEW_VERSION_URL = 'https://api.github.com/repos/slonindyjski/SoftwareUpdater/releases/latest'
+CHECK_NEW_VERSION_URL = 'https://api.github.com/repos/bartekl1/SoftwareUpdater/releases/latest'
 
 
 polish_text = [
@@ -95,7 +95,7 @@ def get_text(text_number):
 
 def download_new_version():
     webbrowser.open(
-        'https://github.com/slonindyjski/SoftwareUpdater/releases/latest',
+        'https://github.com/bartekl1/SoftwareUpdater/releases/latest',
         new=2)
 
 
@@ -311,6 +311,8 @@ def check_updates():
     rows = output[2:-2]
     available_updates = []
     for row in rows:
+        if ' upgrades available.' in row:
+            break
         available_updates.append({
             'name': row[:lengths['name']],
             'id': row[lengths['name']:lengths['name']+lengths['id']],
